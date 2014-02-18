@@ -4,6 +4,6 @@
 
 Ryan Roden
 
-## Objectives and Content
+## Objectives + Content
 * Github Web Flow
-* Github other thing
+* Git on Command Line
